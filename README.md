@@ -1,4 +1,4 @@
-<# Hi, I'm Jack Axle Rex G. Reas 👋
+## Hi, I'm Jack Axle Rex G. Reas 👋
 
 🎓 **4th Year BSIT Student**  
 🏫 **Caraga State University – Cabadbaran Campus**

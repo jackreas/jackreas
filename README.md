@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <# Hi, I'm Jack Axle Rex G. Reas 👋
 
 🎓 **4th Year BSIT Student**  
@@ -16,32 +14,20 @@ I am passionate about learning new technologies, improving my technical skills, 
 
 ## 🧠 Areas of Interest
 
-- Software Development  
-- Web Development  
-- Information Technology Fundamentals  
-- Problem Solving & Logical Thinking  
+- Pretty girls
 
 ---
 
 ## 🌱 Currently
 
 - Completing my BSIT degree  
-- Enhancing my programming and technical skills  
 - Working on academic and personal projects  
 
 ---
 
 ## 📌 Goals
 
-- Graduate with strong technical foundations  
-- Gain hands-on experience in IT-related projects  
 - Continuously learn and adapt to new technologies  
 
 ---
 
-## 📫 Connect With Me
-
-- GitHub: *You’re already here 🙂*  
-*(Add LinkedIn, portfolio, or email later if you want)*
-
----

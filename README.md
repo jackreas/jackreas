@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**jackreas/jackreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<# Hi, I'm Jack Axle Rex G. Reas 👋
 
-Here are some ideas to get you started:
+🎓 **4th Year BSIT Student**  
+🏫 **Caraga State University – Cabadbaran Campus**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a 4th-year **Bachelor of Science in Information Technology (BSIT)** student currently studying at **Caraga State University – Cabadbaran Campus**.  
+I am passionate about learning new technologies, improving my technical skills, and building projects that apply what I learn in both academic and real-world settings.
+
+---
+
+## 🧠 Areas of Interest
+
+- Software Development  
+- Web Development  
+- Information Technology Fundamentals  
+- Problem Solving & Logical Thinking  
+
+---
+
+## 🌱 Currently
+
+- Completing my BSIT degree  
+- Enhancing my programming and technical skills  
+- Working on academic and personal projects  
+
+---
+
+## 📌 Goals
+
+- Graduate with strong technical foundations  
+- Gain hands-on experience in IT-related projects  
+- Continuously learn and adapt to new technologies  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: *You’re already here 🙂*  
+*(Add LinkedIn, portfolio, or email later if you want)*
+
+---

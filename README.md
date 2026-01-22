@@ -12,7 +12,7 @@ I am passionate about learning new technologies, improving my technical skills, 
 
 ---
 
-## 🧠 Areas of Interest
+## 🧠 Interests
 
 - Pretty girls
 
